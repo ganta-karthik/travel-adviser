@@ -2,7 +2,8 @@
 
 # Travel Advisor
 
-![image](https://github.com/ganta-karthik/travel-advisor/assets/117899102/a5193b25-3746-44e4-a54f-a667b2537340)
+![Uploading image.png…]()
+
 
 ## Introduction
 Travel Advisor Application using Google Maps. With Geolocation, Google Maps API, Travel Advisor API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is the best Map Application.
