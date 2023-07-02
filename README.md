@@ -29,6 +29,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+If it asks react-scripts not prsent the use this command 
+### npm install react-scripts
+This allows to install react-scripts and if you want to install all packages according to run this project at package.json it shows dependences install them by using npm commands  
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
