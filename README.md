@@ -2,7 +2,8 @@
 
 # Travel Advisor
 
-![Uploading image.png…]()
+![image](https://github.com/ganta-karthik/travel-adviser/assets/117899102/87baa72a-6632-40bc-99f9-4dd19bdb051d)
+
 
 
 ## Introduction
